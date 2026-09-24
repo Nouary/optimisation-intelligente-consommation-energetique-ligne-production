@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.class
+*.joblib
+!energy_ml_project/models/best_model_GradientBoosting.joblib
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+*.log
+.DS_Store
